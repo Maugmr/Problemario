@@ -40,6 +40,3 @@ Este repositorio contiene una serie de ejercicios básicos en Python para practi
 18. Generar la serie de Fibonacci hasta un número dado.
 19. Determinar si un número es primo o no.
 
-## Licencia
-
-Este proyecto es de uso libre para fines educativos y de práctica.
